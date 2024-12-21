@@ -1,0 +1,3 @@
+/Users/roiwishengrad/untitled25/JobManagementSystem/cmake-build-debug/CMakeFiles/JobManagementSystem.dir
+/Users/roiwishengrad/untitled25/JobManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roiwishengrad/untitled25/JobManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
